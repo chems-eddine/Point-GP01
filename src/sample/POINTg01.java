@@ -1,5 +1,5 @@
 package sample;
-
+/*programme d'point*/
 public class POINTg01{
     private double x;
     private double y;
